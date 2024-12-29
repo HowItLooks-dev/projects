@@ -1,6 +1,6 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
+name: New Project
+about: Which project do you wish to see
 title: "[NEW]"
 labels: New Project
 assignees: ''
